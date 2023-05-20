@@ -1,3 +1,9 @@
+more practice with arrays
+
+includes passing props and destructing methods
+
+and the sort methods on Age and Name
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
